@@ -4,6 +4,7 @@
     min-height: 100px;
     margin-bottom: 0;
 }
+
 .headerBg{
     background: linear-gradient(90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
 }
@@ -37,4 +38,5 @@
     align-items: center;
     margin-top: 20px;
     margin-left: 50px;
+
 }
