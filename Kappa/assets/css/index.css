@@ -82,6 +82,12 @@ img {vertical-align: middle;}
 
 .sectionBg{
   background: linear-gradient(90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
+  line-height: 80px;
+  margin: 20px;
+}
+.infoBg{
+  background: linear-gradient(90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
+  margin: 20px;
 }
 
 .img-style{
@@ -89,4 +95,13 @@ img {vertical-align: middle;}
   height: 60%;
   width: 60%;
   padding-top: 20px;
+}
+
+.news-box {
+  padding: 20px;
+  
+}
+
+h2{
+  padding: 30px;
 }
