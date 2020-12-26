@@ -9,6 +9,12 @@
     background: linear-gradient(90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
 }
 
+.img-style{
+
+    height: 60%;
+    width: 60%;
+    padding-top: 20px;
+    }
 .btn-purple-moon {
     background: linear-gradient(90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
     color: white;
